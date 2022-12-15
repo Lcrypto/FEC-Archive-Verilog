@@ -4,7 +4,7 @@ Verilog implementation of
 * Universal Demapper from BPSK to QAM-512
 * different Forward Error Correction coders and decoders:
 Hamming code, Golay code (24), 4-dimension 8-ary phase shift keying trellis coded modulation (TCM_4D_8PSK), 
-BCH, RS, Turbo code, 5G Polar code and QC-LDPC code 5G/WIMAX/NASA GSFC (8176,7156).
+BCH, CCSDS and recursive systematic convolutional (RSC) Turbo codes, 5G Polar code and QC-LDPC code 5G/WIMAX/NASA GSFC (8176,7156).
 
 
 
