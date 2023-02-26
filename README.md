@@ -7,7 +7,7 @@ Verilog implementation of
 Hamming code, Golay code (24), 4-dimension 8-ary phase shift keying trellis coded modulation (TCM_4D_8PSK), 
 BCH, CCSDS and recursive systematic convolutional (RSC) Turbo codes, 5G Polar code and QC-LDPC code 5G/WIMAX/NASA GSFC (8176,7156).
 
-from Denis Vladimirovich Shekhalev (des00 [dog]  opencores.org) Senior Engineer, Scientific and Educational Center “Engineering Center of Microwave Technic and Technology”, National Research Tomsk State University, Tomsk, Russian Federation. 
+from famous RTL Engineer  Denis Vladimirovich Shekhalev (des00 [dog]  opencores.org) Senior Engineer, Scientific and Educational Center “Engineering Center of Microwave Technic and Technology”, National Research Tomsk State University, Tomsk, Russian Federation. 
 
 
 
